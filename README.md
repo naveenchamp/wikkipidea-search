@@ -1,5 +1,4 @@
-# wikkipidea-search
-(API integration) APPLICATION
+# wikkipidea-search (API integration) APPLICATION
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
@@ -16,5 +15,7 @@
 ##appends wikkipidea details about the user entered in textinput through wikkipidea api .This code was exicuted on vs code.
 
 #output:
+
+![Image](https://github.com/user-attachments/assets/e0b04b5f-6061-417b-86ec-3dc8e41d5adc)
 
 
